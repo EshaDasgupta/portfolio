@@ -1,11 +1,11 @@
 title: Esha Dasgupta # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="">About Me</a> 
+  <a>About Me</a> 
   <br><br>
- <a href="">Resume</a>
+ <a>Resume</a>
   <br><br>
-  <a href="">Projects</a>
+  <a>Projects</a>
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
