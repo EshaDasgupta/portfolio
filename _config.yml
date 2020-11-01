@@ -1,9 +1,9 @@
 title: Esha Dasgupta # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  About Me 
+  <a href="https://eshadasgupta.github.io/portfolio/index">About Me</a>  
   <br><br>
-  Resume
+  <a href="https://eshadasgupta.github.io/portfolio/education">Education</a>
   <br><br>
   Projects
   <br><br>
