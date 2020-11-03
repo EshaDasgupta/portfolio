@@ -5,9 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://eshadasgupta.github.io/portfolio/education">Education</a>
   <br><br>
-  Projects
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/esha-dasgupta-5861528a/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
